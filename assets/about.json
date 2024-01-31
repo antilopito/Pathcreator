@@ -1,0 +1,44 @@
+{
+    "info": {
+        "header": "About This App",
+        "text": [
+            "This Lenkintekijä application was created for an assignment on course TIEA207. This application is made by a team of four, where everyone was responsible for different components of the application or different parts of the development process. Please note that this application is only a prototype. This application is still in development, and some features, such as the 'strength training and stretching exercises generation' features, are missing.",
+            "The idea of this application is to make it easy for you to create routes for walking and running. You can enter the desired lenght of your route for the application, and the application will calculate routes that best match the desired lenght, and draw them on a map. By using this application for drawing a route for your walking or running exercise, you don't need to estimate distances yourself or worry about where you should go and whether you should turn left or right in a particular intersection. That is all handled and calculated for you by this application!",
+            "In addition to generating routes, you can also generate strength training or stretching exercises in the EXERCISES page. NB! The EXERCISES page is still in progress."
+        ]
+    },
+    "help": {
+        "header": "How To Use This App",
+        "parts": {
+            "part1": {
+                "title": "General Instructions",
+                "text": [
+                    "By pressing the icons on the white navigation bar at the bottom, you can move between different pages in the application. However, that you probably already knew since you were able to navigate to this About page.",
+                    "Above the navigation bar there is a timer that you can use for timing how long it takes for you to walk or run the generated route."
+                ]
+            },
+            "part2": {
+                "title": "... For Generating Routes",
+                "text": [
+                    "On the MAP page, enter the desired length of the route in the white box, and press 'Route!'. The application will generate and draw a route for you on the map. This may take a couple of seconds.",
+                    "You can see the details of the route (e.g. the length and the date) below the map.",
+                    "If you are not satisfied with the generated route, you can generate another route with the same length by pressing the 'Try again' button.",
+                    "By pressing 'Save route', you can save the generated route. When you press the button, you will see a pop-up window that asks you to give a name for the route. When you are ready, press 'Save', or if you want to cancel the saving process, press 'Back'.",
+                    "By pressing 'My routes', you can view all the routes you have saved. You can open a route on the map by pressing the open button. You can delete a route by pressing the red recycling bin icon."
+                ]
+            },
+            "part3": {
+                "title": "... For Generating Strength Training or Stretching Exercises",
+                "text": [
+                    "Coming soon."
+                ]
+            }
+        }
+    },
+    "license": {
+        "header": "License",
+        "text": [
+            "No licence."
+        ]
+    }
+}
